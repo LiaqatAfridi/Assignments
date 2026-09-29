@@ -1,0 +1,4 @@
+with ka faida: 
+with file ko safely open aur close karne ka easy tareeqa hai.
+    Jab with wala block khatam hota hai, Python automatically file ko close kar deta hai, 
+    chahe block ke andar koi error hi kyun na aa jaye.
